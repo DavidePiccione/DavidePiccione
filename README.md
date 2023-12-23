@@ -21,4 +21,5 @@
 
 <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DavidePiccione&show_icons=true&count_private=true&theme=dark" width="450"/></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidePiccione&layout=donut&langs_count=6&theme=dark" width="305"/></a>
 </p>
